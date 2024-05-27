@@ -1,0 +1,9 @@
+In this thesis project, the primary objective is to foster personal growth and aquire new skills while developing a captivating game aimed at entertaining close friends and the developer. The project entails the creation of a first-person shooting game using C++ and Unreal Engine. This endeavour is intended to be an ongoing and evolving project, with continuous improvements and updates, potentially involivng friends in the game's development process.
+
+The current version of the game feautres a meticulously designed map, inspired by the captivating landscapes and architectural wonders of Asia. The game targets speed runneres, enthusiasts who strive to complete games or specific stages in record time, consistently seeking to discorver the shortest possible path to the goal.
+
+To ensure an enjoyable and challenging gameplay experience, artificial intelligence has been implemented into the game in the form of hostile wolves. These formidable enemies posses the ability to detect players withing a 90-degree field of view and inflict 25 health points (HP) per attack. The player character starts with a health pool of 100 HP, allowing them to sustain only four hits before succumbing to defeat.
+
+To Maintain an engaging gameplay loop, the game will automatically reset upon the player's demise or when the timer expires. Players must strive to clear the stage and reach the goal within a time limit of 120 seconds. Failure to do so results in a loss, prompting the game to restart. Notably, all enemies possess a fixed health pool of 100 HP, while the player character's attacks inflict 20 HP of damage per hot. Consequently, players must land five successful shots to eliminate an enemy.
+
+This project represents and exciting opportunity to explore the realms of game development, and its continuous improvement will undoubtedly provide lasting entertaingment and enjoyment for the developer and their close friends.
